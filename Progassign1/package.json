@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "csv": "^6.3.10",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.9.0",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7",
+    "parser": "^0.1.4"
+  }
+}
